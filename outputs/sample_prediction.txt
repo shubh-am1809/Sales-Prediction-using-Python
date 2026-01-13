@@ -1,0 +1,2 @@
+Advertising Spend (TV, Radio, Newspaper): [1.0, 230.1, 37.8, 69.2]
+Predicted Sales: 20.561325145355624
